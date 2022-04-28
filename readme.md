@@ -1,1 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangYunSeong&theme=cobalt&show_icons=true)
+코딩공부 하는곳..
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbstjd0924)](https://solved.ac/dbstjd0924)
